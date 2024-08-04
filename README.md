@@ -1,4 +1,4 @@
-# personal_budgeting_app
+# Personal Budgeting App with Cloud Firestore
 
 A new Flutter project.
 
